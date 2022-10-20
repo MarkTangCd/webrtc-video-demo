@@ -1,0 +1,148 @@
+12:37:23 DEBUG - the user number of room (room1) is: 1
+12:37:42 DEBUG - the user number of room (room1) is: 2
+14:15:35 DEBUG - the user number of room (test) is: 1
+14:16:38 DEBUG - the user number of room (test) is: 2
+14:17:48 DEBUG - the user number of room (room1) is: 1
+14:18:02 DEBUG - the user number of room (room1) is: 2
+14:18:26 DEBUG - the user number of room (room1) is: 3
+14:18:36 DEBUG - the user number of room (room1) is: 3
+14:18:36 DEBUG - the user number of room (room1) is: 3
+14:18:37 DEBUG - the user number of room (room1) is: 3
+14:18:37 DEBUG - the user number of room (room1) is: 3
+14:20:37 DEBUG - the user number of room (room1) is: 1
+14:20:42 DEBUG - the user number of room (room1) is: 2
+14:20:49 DEBUG - the user number of room (room1) is: 3
+21:16:40 DEBUG - the user number of room (room1) is: 1
+21:16:56 DEBUG - the user number of room (room1) is: 2
+15:26:15 DEBUG - the user number of room (room1) is: 1
+15:27:48 DEBUG - the user number of room (room1) is: 1
+15:28:50 DEBUG - the user number of room (room1) is: 2
+15:30:24 DEBUG - the user number of room (room1) is: 1
+15:30:59 DEBUG - the user number of room (room1) is: 2
+15:36:36 DEBUG - the user number of room (room1) is: 1
+15:36:56 DEBUG - the user number of room (room1) is: 2
+15:42:32 DEBUG - the user number of room (room1) is: 1
+15:43:04 DEBUG - the user number of room (room1) is: 2
+15:43:04 DEBUG - message, room: room1, data, type:offer
+15:45:11 DEBUG - the user number of room (room1) is: 1
+15:45:27 DEBUG - the user number of room (room1) is: 2
+15:45:27 DEBUG - message, room: room1, data, type:offer
+15:48:34 DEBUG - the user number of room (room1) is: 1
+15:48:44 DEBUG - the user number of room (room1) is: 2
+15:48:44 DEBUG - message, room: room1, data, type:offer
+15:48:44 DEBUG - message, room: room1, data, type:answer
+15:57:04 DEBUG - the user number of room (room1) is: 1
+15:58:04 DEBUG - the user number of room (room1) is: 2
+15:58:04 DEBUG - message, room: room1, data, type:offer
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:answer
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+15:58:04 DEBUG - message, room: room1, data, type:candidate
+16:01:38 DEBUG - the user number of room (room1) is: 1
+16:18:36 DEBUG - the user number of room (room1) is: 1
+16:24:57 DEBUG - the user number of room (room1) is: 1
+16:25:24 DEBUG - the user number of room (room1) is: 2
+16:25:24 DEBUG - message, room: room1, data, type:offer
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:25:24 DEBUG - message, room: room1, data, type:answer
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:25:24 DEBUG - message, room: room1, data, type:candidate
+16:29:14 DEBUG - the user number of room (room1) is: 1
+16:29:27 DEBUG - the user number of room (room1) is: 2
+16:29:27 DEBUG - message, room: room1, data, type:offer
+16:29:27 DEBUG - message, room: room1, data, type:candidate
+16:29:27 DEBUG - message, room: room1, data, type:candidate
+16:29:27 DEBUG - message, room: room1, data, type:candidate
+16:29:27 DEBUG - message, room: room1, data, type:answer
+16:29:27 DEBUG - message, room: room1, data, type:candidate
+16:29:28 DEBUG - message, room: room1, data, type:candidate
+16:29:28 DEBUG - message, room: room1, data, type:candidate
+16:46:40 DEBUG - the user number of room (room1) is: 1
+16:47:36 DEBUG - the user number of room (room1) is: 2
+16:47:37 DEBUG - message, room: room1, data, type:offer
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:47:37 DEBUG - message, room: room1, data, type:answer
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:47:37 DEBUG - message, room: room1, data, type:candidate
+16:56:21 DEBUG - the user number of room (room1) is: 1
+16:56:33 DEBUG - the user number of room (room1) is: 2
+16:56:33 DEBUG - message, room: room1, data, type:offer
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+16:56:33 DEBUG - message, room: room1, data, type:answer
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+16:56:33 DEBUG - message, room: room1, data, type:candidate
+17:01:31 DEBUG - the user number of room (room1) is: 1
+17:01:54 DEBUG - the user number of room (room1) is: 2
+17:01:54 DEBUG - message, room: room1, data, type:offer
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:01:54 DEBUG - message, room: room1, data, type:answer
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:01:54 DEBUG - message, room: room1, data, type:candidate
+17:10:47 DEBUG - the user number of room (room1) is: 1
+17:10:53 DEBUG - the user number of room (room1) is: 2
+17:10:53 DEBUG - message, room: room1, data, type:offer
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:10:53 DEBUG - message, room: room1, data, type:answer
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:10:53 DEBUG - message, room: room1, data, type:candidate
+17:13:43 DEBUG - the user number of room (room1) is: 1
+17:13:55 DEBUG - the user number of room (room1) is: 2
+17:13:55 DEBUG - message, room: room1, data, type:offer
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:13:55 DEBUG - message, room: room1, data, type:answer
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:13:55 DEBUG - message, room: room1, data, type:candidate
+17:16:54 DEBUG - the user number of room (room1) is: 1
+17:17:00 DEBUG - the user number of room (room1) is: 2
+17:17:00 DEBUG - message, room: room1, data, type:offer
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:17:00 DEBUG - message, room: room1, data, type:answer
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:17:00 DEBUG - message, room: room1, data, type:candidate
+17:18:43 DEBUG - the user number of room (room) is: 1
+17:19:00 DEBUG - the user number of room (room) is: 2
+17:19:00 DEBUG - message, room: room, data, type:offer
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:answer
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+17:19:00 DEBUG - message, room: room, data, type:candidate
+21:41:34 DEBUG - the user number of room (room1) is: 1
+21:41:44 DEBUG - the user number of room (room1) is: 2
+21:41:44 DEBUG - message, room: room1, data, type:offer
+21:41:44 DEBUG - message, room: room1, data, type:candidate
+21:41:44 DEBUG - message, room: room1, data, type:candidate
+21:41:44 DEBUG - message, room: room1, data, type:answer
+21:41:44 DEBUG - message, room: room1, data, type:candidate
