@@ -10,7 +10,7 @@ export const OTHER_JOINED = 'other_joined';
 export const BYE = 'bye';
 
 // Other
-export const BASE_URL = 'http://localhost:3333';
+export const BASE_URL = 'https://test-api.marktang.top';
 export const pcConfig = {
   iceServers: [
     {
