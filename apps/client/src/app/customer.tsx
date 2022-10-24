@@ -55,7 +55,7 @@ export function Customer() {
     <div className={styles['wrapper']}>
       <Text fontSize='5xl'>YCD Video Live System Demo - Audio-End</Text>
       <div className={styles['video-section']}>
-        <video autoPlay playsInline  ref={videoEl} className={styles['video-player']}></video>
+        <video autoPlay playsInline muted ref={videoEl} className={styles['video-player']}></video>
       </div>
       <div className={styles['audio-section']}>
         <audio autoPlay playsInline ref={audioEl} className={styles['audio-player']}></audio>

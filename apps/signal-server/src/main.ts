@@ -12,7 +12,7 @@ import {
   LEAVED,
   OTHER_JOINED,
   BYE
-} from '@webrtc-video-demo/webrtc-sdk';
+} from '@webrtc-video-demo/webrtc-sdk'; //TODO: 这里的常量要从webrtc-sdk抽出去，不然signal-server build的时候会被打包
 
 const USER_COUNT = 3;
 
